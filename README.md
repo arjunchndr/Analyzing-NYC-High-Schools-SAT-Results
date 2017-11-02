@@ -9,7 +9,7 @@ New York City makes its [data on high school SAT scores](https://data.cityofnewy
 
 ## Getting Started
 
-Download the Jupyter notebook if you have all the dependencies listed below. 
+Download the [Jupyter notebook](https://github.com/arjunchndr/Analyzing-NYC-High-Schools-SAT-Results/blob/master/Analyzing%20NYC%20Schools%20SAT%20Results.ipynb) if you have all the dependencies listed below. 
 
 Plotly graphs are not visible on GitHub hosted Jupyter notebook - as iFrames are not supported. You can view the notebook containing the interactive Plotly graphs [here](http://nbviewer.jupyter.org/github/arjunchndr/Analyzing-NYC-High-Schools-SAT-Results/blob/master/Analyzing%20NYC%20Schools%20SAT%20Results.ipynb). 
 
